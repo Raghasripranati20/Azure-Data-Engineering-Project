@@ -1,6 +1,7 @@
 [
     {
-        "p_rel_url" : "Raghasripranati20/Azure_Data_Engineering_Project/refs/heads/main/Dataset/AdventureWorks_Product_Categories.csv",
+        "p_rel_url" : "Raghasripranati20/AdventureWorks-Azure-Project
+/refs/heads/main/Dataset/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
